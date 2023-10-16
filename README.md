@@ -1,5 +1,7 @@
 # InterTracker: Discovering and Tracking General Objects Interacting with Hands in the Wild
 
+![Framwork](https://github.com/twotwo2/TIO/blob/main/detect_model_00.jpg)
+
 We will publish the code soon.
 
 <!-- ## 6. Cite
